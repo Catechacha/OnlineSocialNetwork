@@ -1,10 +1,10 @@
 # OnlineSocialNetwork
 Questo è il mio progetto per il corso di laboratorio di reti.
 
-#AVVISO IMPORTANTE/CONSIGLIO DA SEGUIRE PER GLI STUDENTI DI INFORMATICA CHE DEVONO SOSTENERE ANCORA L'ESAME
+# AVVISO IMPORTANTE/CONSIGLIO DA SEGUIRE PER GLI STUDENTI DI INFORMATICA CHE DEVONO SOSTENERE ANCORA L'ESAME
 La professoressa conosce il mio progetto: consultare il codice può andar bene, copiare sicuramente non vi fa fare bella figura in quanto prevede la bocciatura.
 
-#Progetto
+# Progetto
 Il progetto consiste nello sviluppo di una rete sociale caratterizzata da un semplice
 insieme di funzionalità. Per utilizzare queste funzionalità, gli utenti si devono registrare,
 quindi possono: effettuare il login, ricercare un utente specificandone il nome, stabilire amicizie con altri utenti, pubblicare contenuti (testo), ricevere contenuti pubblicati dai loro amici, se hanno manifestato interesse in tali contenuti, effettuare logout
